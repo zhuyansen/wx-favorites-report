@@ -2,6 +2,8 @@
 
 从加密的微信 Mac 本地数据库中提取收藏数据，生成交互式可视化 HTML 报告。
 
+[![Security-graded by Agent Skills Hub](https://agentskillshub.top/badge/zhuyansen/wx-favorites-report.svg)](https://agentskillshub.top/skill/zhuyansen/wx-favorites-report/)
+
 ## 效果预览
 
 报告包含：统计仪表盘、月度趋势、类型分布、来源排行、活跃热力图、词云、标签云，以及可按类型/标签筛选的收藏浏览区。
